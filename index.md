@@ -12,6 +12,9 @@
 let cuteAnimals = "Cats and dogs!"
 ```
 
+- [x] PIC Pre Work 1 - Introspection
+- [ ] PIC Pre Work 2 - Technical Baselining
+- [ ] PIC Pre Work 3 - Coding Setup
 
 
 
